@@ -1,0 +1,49 @@
+# Horos Slim Theme
+# Created by Nate Levesque (public@thenaterhood.com)
+# URL: https://github.com/thenaterhood/slim-window
+#
+# Image credit: Nuno Pinheiro 
+
+# Messages (ie: shutdown)
+msg_color               #ffffff
+msg_font                Sans:size=13
+msg_x                   444
+msg_y                   73%
+msg_shadow_color 		#000000
+msg_shadow_xoffset 		1
+msg_shadow_yoffset 		1
+
+# valid values: stretch, tile
+background_style        fit
+background_color        #30495E
+
+#welcome message (relative to panel)
+welcome_x               20
+welcome_y               30
+welcome_font          	Sans:size=10
+welcome_color           #000000
+
+# Login Name
+username_font		Sans:size=10
+username_color		#c90520
+
+password_x		0%
+password_y		78%
+
+username_x		0%
+username_y		78%
+
+username_msg		
+password_msg		
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+
+input_name_x            98
+input_name_y            82
+input_pass_x            98
+input_pass_y            142
+
+input_font              Sans:size=10
+input_color		#c90520
